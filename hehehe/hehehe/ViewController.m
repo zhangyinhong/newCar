@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"我曹");
+    NSLog(@"打工是不是可能的，这辈子都不可能的");
 }
 
 
